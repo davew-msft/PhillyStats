@@ -13,3 +13,9 @@ _this repo and code is still very rough_
 * [Walking the LLC Chain](./PhillyStats02-LLC-Analytics.ipynb)
   * **this is the important notebook**
   * walks the LLC and property chains given the available data.  
+
+_Data provided in the sftp server is as of 4/1/2025_
+
+The data can be downloaded in parquet format.  Send me an email for instructions.  
+
+[Last call video](https://livesend.microsoft.com/i/ausnMbyIY6eBJ2agORgaxsQMbsqBv3xIpslURsCRCiToZJI6IuVTcYCg0WQuxgXrvBenmg1wOjiYdwTtL0pgtBFiQx___5Olr3DfwxlE798WTbiYe7yV3QjL8PLUSSIGNV___MVrwhR)
